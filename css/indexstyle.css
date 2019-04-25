@@ -1,0 +1,53 @@
+html{
+    max-width:100%;
+}
+
+.header>img{
+    width: 9.4rem;
+    margin: 0.3rem;
+}
+
+.navPic img{
+    width: 10rem;
+    height: 4.75rem;
+}
+
+.titleContainer>img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* .titlePic .img2{
+    margin: 0.34rem 1.3rem;
+}
+
+.titlePic .img1{
+    margin-left: 1.1rem!important;
+} */
+
+.menu>a>img{
+    width: 1.6rem;
+}
+
+.menu p{
+    font-size: 0.4rem;;
+}
+.menu{
+    float: left;
+}
+
+.menu1{
+    /* padding: 10px 25px; */
+    padding: 0.28rem 0.70rem;
+}
+
+.menu2{
+    padding: 0.28rem 1.11rem;
+}
+
+.menu3{
+    padding: 0.28rem 0.56rem;
+}
+.menu a{
+    color: black;
+}
